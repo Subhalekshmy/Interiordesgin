@@ -1,0 +1,28 @@
+.contact{
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+}
+.input{
+    padding: 8px;
+    display: block;
+    border-bottom: 1px solid white;
+    width: 150%;
+    border: 1px solid #ccc !important;
+    font-size:20px;
+}
+input[type="textbox" ] {
+    padding-block: 15px;
+    
+}
+label{
+    font-size: 22px;
+    font-family: poppins;
+}
+.button-style{
+    width:152%;
+    color:white;
+    background-color: red;
+     padding:8px;
+    margin:7px ;
+    font-size: 22px;
+}

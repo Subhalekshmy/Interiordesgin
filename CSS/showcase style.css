@@ -1,0 +1,21 @@
+
+.image-padding{
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Divide the area into 2 equal columns */
+    gap: 10px;
+    width: 70%;
+    max-width: 1200px;
+    padding: 0px 393px;
+}
+
+.image{
+    display:flex;
+    flex-direction: column;
+    gap:10px;
+}
+.image img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 4px;
+}

@@ -1,0 +1,34 @@
+ .pack{
+   margin: 16px;
+   padding-left: 390px;
+   display:flex;
+  
+ }
+ ul{
+   list-style-type: none;
+   border-bottom: 2px soild black;
+ 
+ }
+ .pack-item{
+   background-color: rgb(108, 104, 104);
+   color:white;
+   padding:22px 210px;
+   font-size:25px;
+ 
+ 
+ }
+ li{
+  text-align: center;
+   background-color: #ccc;
+   line-height:2.5;
+   font-size:20px;
+ 
+   
+  
+ }
+ .button{
+  padding:15px 65px;
+  font-size:20px;
+  margin:5px 20px;
+   
+ }
